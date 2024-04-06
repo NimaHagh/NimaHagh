@@ -12,8 +12,8 @@ Hello! My name is Nima, and I'm a Computer Science student at TMU.<br><br>🔭 C
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NimaHagh&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaHagh&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️  Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NimaHagh&icon=2&color=4)](https://visitcount.itsvg.in)
